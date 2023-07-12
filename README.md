@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Olaitan O. Habeeb.
-- 👀 I’m interested in Web Backend Development (PHP/Laravel/NodeJS/Express) and FrontEnd Development (Angular/Laravel/Laravel Livewire).
+- 👀 I’m interested in Web Backend Development (PHP/Laravel/NodeJS/Express) and FrontEnd Development (Angular/Laravel/React/NextJS).
 - 🌱 I’m currently learning NativeScript, Ionic and GoLang.
 - 💞️ I’m looking to collaborate on Freelance / Full-Time Job Team Project.
 - 📫 How to reach me>: 
