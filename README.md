@@ -40,6 +40,7 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 
 **Frontend** \
@@ -50,6 +51,7 @@
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 
 **Database & Tools** \
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
@@ -65,8 +67,8 @@
 <div align="center">
 
 <a href="https://github.com/olaitan6201">
-  <img height="180em" src="https://ghstats.dev/api?username=olaitan6201&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://ghstats.dev/api/top-langs/?username=olaitan6201&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://ghstats.dev/api/card?username=olaitan6201&theme=tokyonight&hide_border=true" />
+  <img src="https://ghstats.dev/api/langs?username=olaitan6201&layout=compact&theme=tokyonight&hide_border=true" />
 </a>
 
 </div>
