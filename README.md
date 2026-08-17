@@ -67,8 +67,8 @@
 <div align="center">
 
 <a href="https://github.com/olaitan6201">
-  <img src="https://ghstats.dev/api/card?username=olaitan6201&theme=tokyonight&hide_border=true" />
-  <img src="https://ghstats.dev/api/langs?username=olaitan6201&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-stats-rosy.vercel.app/api/card?username=olaitan6201&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-stats-rosy.vercel.app/api/langs?username=olaitan6201&layout=compact&theme=tokyonight&hide_border=true" />
 </a>
 
 </div>
