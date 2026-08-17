@@ -65,8 +65,8 @@
 <div align="center">
 
 <a href="https://github.com/olaitan6201">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=olaitan6201&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olaitan6201&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://ghstats.dev/api?username=olaitan6201&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://ghstats.dev/api/top-langs/?username=olaitan6201&layout=compact&theme=tokyonight&hide_border=true" />
 </a>
 
 </div>
@@ -87,7 +87,7 @@
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=olaitan6201&theme=tokyonight&hide_border=true)](https://streak-stats.demolab.com)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=olaitan6201&theme=tokyonight&hide_border=true)](https://streak-stats.demolab.com)
 
 </div>
 
